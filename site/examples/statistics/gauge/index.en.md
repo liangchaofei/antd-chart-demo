@@ -1,4 +1,4 @@
 ---
-title: Guage
+title: Gauge
 order: 14
 ---

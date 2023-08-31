@@ -8,6 +8,6 @@ import Scatter from './scatter';
 import Radar from './radar';
 import Tiny from './tiny';
 import Rose from './rose';
-import Guage from './guage';
+import Gauge from './gauge';
 
-export { Column, Line, Pie, Area, Bar, DualAxes, Scatter, Radar, Rose, Tiny, Guage };
+export { Column, Line, Pie, Area, Bar, DualAxes, Scatter, Radar, Rose, Tiny, Gauge };

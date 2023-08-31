@@ -5,10 +5,10 @@
   },
   "demos": [
     {
-      "filename": "guage.js",
+      "filename": "gauge.js",
       "title": {
         "zh": "仪表盘",
-        "en": "Guage Chart"
+        "en": "Gauge Chart"
       },
       "screenshot": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*_DeKSr3oN5sAAAAAAAAAAAAADmJ7AQ/original"
     }

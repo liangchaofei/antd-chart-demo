@@ -1,9 +1,9 @@
 import { flow, transformOptions } from '../../utils';
 import { mark } from '../../components';
 import type { Adaptor } from '../../types';
-import type { GuageOptions } from './type';
+import type { GaugeOptions } from './type';
 
-type Params = Adaptor<GuageOptions>;
+type Params = Adaptor<GaugeOptions>;
 
 /**
  * @param chart

@@ -11,7 +11,7 @@ export type { TinyLineOptions } from './plots/tiny-line';
 export type { TinyAreaOptions } from './plots/tiny-area';
 export type { TinyColumnOptions } from './plots/tiny-column';
 export type { RoseOptions } from './plots/rose';
-export type { GuageOptions } from './plots/guage';
+export type { GaugeOptions } from './plots/gauge';
 export * from './types';
 
 import { Area } from './plots/area';
@@ -26,6 +26,6 @@ import { TinyLine } from './plots/tiny-line';
 import { TinyArea } from './plots/tiny-area';
 import { TinyColumn } from './plots/tiny-column';
 import { Rose } from './plots/rose';
-import { Guage } from './plots/guage';
+import { Gauge } from './plots/gauge';
 
-export const Plots = { Guage, Line, Column, Pie, Area, Bar, DualAxes, Scatter, Radar, Rose, TinyLine, TinyArea, TinyColumn };
+export const Plots = { Gauge, Line, Column, Pie, Area, Bar, DualAxes, Scatter, Radar, Rose, TinyLine, TinyArea, TinyColumn };

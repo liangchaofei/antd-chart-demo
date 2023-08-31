@@ -1,8 +1,8 @@
-import { Guage } from '@ant-design/plots';
+import { Gauge } from '@ant-design/plots';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const DemoGuage = () => {
+const DemoGauge = () => {
   const config = {
     width: 720,
     height: 720,
@@ -16,7 +16,7 @@ const DemoGuage = () => {
       }
     }
   };
-  return <Guage {...config} />;
+  return <Gauge {...config} />;
 };
 
-ReactDOM.render(<DemoGuage />, document.getElementById('container'));
+ReactDOM.render(<DemoGauge />, document.getElementById('container'));
